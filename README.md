@@ -1,4 +1,5 @@
 # DSPy 101: Declarative Self-improving Language Programs
+<img width="773" alt="Screenshot 2024-07-06 at 18 20 42" src="https://github.com/davila7/DSPy-101/assets/6216945/68b8e25f-0b80-4199-a550-e2feec875085">
 
 ## Introduction to DSPy
 
