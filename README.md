@@ -67,8 +67,8 @@ pip install dspy-ai
 Clone this repo to access course materials:
 
 ```bash
-git clone https://github.com/davila7/dspy-101.git
-cd dspy-101
+git clone https://github.com/davila7/DSPy-101.git
+cd DSPy-101
 ```
 
 ## Resources
