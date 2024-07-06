@@ -75,3 +75,5 @@ cd dspy-101
 
 - [Official DSPy Documentation](https://dspy-docs.vercel.app/)
 - [DSPy GitHub Repository](https://github.com/stanfordnlp/dspy)
+- [Understanding DSPy](https://shresthakamal.com.np/blog/2024/understanding-dspy/)
+- [Intro to DSPy: Goodbye Prompting, Hello Programming!](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
